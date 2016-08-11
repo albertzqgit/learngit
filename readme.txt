@@ -1,2 +1,2 @@
-first use git
-hello
+second use git
+hello world
